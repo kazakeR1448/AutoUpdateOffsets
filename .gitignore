@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/vcs.xml
+.idea/runConfigurations.xml
+.idea/misc.xml
+.idea/migrations.xml
+.idea/gradle.xml
+.idea/caches/deviceStreaming.xml

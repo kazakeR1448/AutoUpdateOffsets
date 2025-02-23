@@ -22,7 +22,6 @@ This project is based on the source code from [NullUpdater](https://github.com/0
 
 **Example of `offsets.txt`:**  
 ```
-# Lines starting with a hashtag will be ignored
 0x12345  
 0xDEAD  
 0xFED  

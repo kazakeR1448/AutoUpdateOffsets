@@ -27,7 +27,9 @@ This project is based on the source code from [NullUpdater](https://github.com/0
 0xFED  
 0xACE  
 0xFFFF  
-or
+
+OR
+
 12345  
 DEAD  
 FED  

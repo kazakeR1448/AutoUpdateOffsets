@@ -46,3 +46,4 @@ bin/
 .idea/migrations.xml
 .idea/gradle.xml
 .idea/caches/deviceStreaming.xml
+.idea/AndroidProjectSystem.xml
